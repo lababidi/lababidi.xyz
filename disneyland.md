@@ -1,5 +1,5 @@
 ---
-title: Childhood
+title: Disneyland
 layout: default
 ---
 <div class="col-md-9 col-md-offset-3">
