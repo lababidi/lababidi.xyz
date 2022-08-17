@@ -12,7 +12,7 @@ layout: default
 			<a href="javascript:void(0);" name="#childhood">Disney Land</a>
 			</h2>
 			<p>
-				This photo was taken at Amsterdam airport by an employee of KLM airlines when I was roughly twelve years old. I was at the airport with my brother (seen in the back with his eyes popping up) on our way back to the US after being kidnapped by our dad.
+				This photo was taken at Amsterdam airport by an employee of KLM airlines when I was roughly twelve years old. My brother (seen in the back with his eyes and bowl haircut peering above the other kids) and I were on our way back to the US after being kidnapped by our dad.
 			</p>
 			<p>
 When we arrived at Amsterdam airport, we were escorted to unaccompanied children’s area, an area for children who fly without adults. The area had a couple of Super Nintendo systems setup with Super Mario World to play. As much as I would have been keen on playing, I learned there was a bed in a room to sleep in and went to crash for a bit. I don’t recollect the time I arrived, but I may have had to wake up early for the flight leading me to be tired. Maybe I was sick. Maybe all the exhaustion of keeping myself in check during the last few weeks caught up to me. Maybe I had mono. Maybe it was all of the above. 
