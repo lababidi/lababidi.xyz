@@ -12,6 +12,7 @@ layout: default
 				<img src="img/objects/surreal%20childhood-small.jpg" alt="Bones I">
 			</a>
 			<h2 class="title">Untitled (Cereal I)</h2>
+			<h3>I ate all of those bowls of cereal in a 24 hour span.</h3>
 		</div>
 	</div>
 </div>

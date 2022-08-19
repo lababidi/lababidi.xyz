@@ -199,7 +199,6 @@ textarea:focus,
 button:focus,
 select:focus {
   outline: none !important;
-  text-decoration: none;
 }
 * {
   -webkit-box-sizing: border-box;
@@ -280,7 +279,6 @@ h6,
 }
 a {
   color: #ababab;
-  text-decoration: none;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
