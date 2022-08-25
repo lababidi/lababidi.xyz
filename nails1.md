@@ -4,7 +4,7 @@ layout: default
 ---
 <div class="col-md-9 col-md-offset-3">
 	<h1>
-	Bones I
+	Nails I
 	</h1>
 	<div class="projects">
 		<div class="project-item">
