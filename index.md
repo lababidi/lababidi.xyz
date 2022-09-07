@@ -27,44 +27,30 @@ layout: default
 		</div>
 		<div class="project-item-row">
 			<a href="nails.html">
-				<img src=img/objects/nails.jpg" alt="" width="100 px">
+				<img src="img/objects/nails.jpg" alt="" width="100 px">
 				<br/>
 				Nails I
 			</a>
 		</div>
 		<div class="project-item-row">
-			<a href="cereal2.html">
-				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px">
+			<a href="bones.html">
+				<img src="img/objects/bones.jpg" alt="" width="100 px">
 				<br/>
-				Untitled (Cereal II)
+				Bones I
 			</a>
 		</div>
 		<div class="project-item-row">
-			<a href="cereal2.html">
-				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px">
+			<a href="fiorucci.html">
+				<img src="img/objects/fiorucci.jpg" alt="" width="100 px">
 				<br/>
-				Untitled (Cereal II)
+				Fiorucci Made Me
 			</a>
 		</div>
 		<div class="project-item-row">
-			<a href="cereal2.html">
-				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px">
+			<a href="acuvue.html">
+				<img src="img/objects/acuvueoasys.jpg" alt="" width="100 px">
 				<br/>
-				Untitled (Cereal II)
-			</a>
-		</div>
-		<div class="project-item-row">
-			<a href="cereal2.html">
-				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px">
-				<br/>
-				Untitled (Cereal II)
-			</a>
-		</div>
-		<div class="project-item-row">
-			<a href="cereal2.html">
-				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px">
-				<br/>
-				Untitled (Cereal II)
+				Acuvue Oasys
 			</a>
 		</div>
 	</div>
