@@ -672,9 +672,22 @@ body {
   padding-left: 80px;
   padding-right: 50px;
 }
+.projects-row {
+  padding-left: 80px;
+  padding-right: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.projects-row img{
+  max-height: 100px;
+}
 .project-item {
   position: relative;
   margin-bottom: 40px;
+}
+.project-item-row {
+  flex-grow: 1;
+  margin: 10px;
 }
 .project-item:last-child {
   margin-bottom: 0;
