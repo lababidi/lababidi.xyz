@@ -26,7 +26,6 @@ New York is the hotdog capital of the world, but Papaya King isn't just about a 
 It wasn't very busy when I arrived but over the next hour business picked up. 
 During the lull, I chatted with the workers, all part of a Bangladeshi family, and they told me
 "Business has been busy since we were in the news". 
-
 </p>
 <p>
 I ordered a sauerkraut dog and a chili and cheese dog with a papaya juice, the recommended staples. 
@@ -40,21 +39,17 @@ The whole store is a tight space, meant for on-the-go eating.
 <p>
 The massive windows provide a cinematic view of the corner of 86th Street, one block away from the popular 4-5-6 subway station.  
 Two older women in their 60s with thick New York accents checked the prices to get hotdogs later and left.  
- 
 The tourists; hungry, confused, curious; walk up to this neon-lit, billboard box nestled among the high rises. 
 A crowd of African delivery bikers wait outside for orders to pick up. 
 Cars are parked and double parked to order and pick up food.
-
 </p>
 <p>
-
 I finished my meal, went out to the August heat, set up my tripod to get a couple of photographs of the exterior. 
 To have no one in the shot I waited close to one hour with the parade of people walking by.
 </p>
 <p>
 With a think New York accent, a man stopped to ask if I was photographing the shop because I heard the news about the developer.
 "That sonovabitch! I've been coming here for 50 years since I was a kid!"
-
 </p> 
 <p>
 A small line started to form; it looked like a Papaya party inside.  <br/>
@@ -71,16 +66,10 @@ He later came out to talk to me. <br/>
 I need a cold club soda because of the heat.
 </p>
 <p>
-I packed up and remembered showing the young employee a Seinfeld clip: Kramer left the movies to fetch a Papaya King dog, a tiny reference that's easy to miss. <br/>
-He had not heard of Seinfeld but seemed amused that this dated sitcom referenced his family's business. <br/>
-<!-- Like Kramer and the rest of New York, I share the desire of the Papaya King. -->
+I packed up and remembered showing the young employee a Seinfeld clip: Kramer left the movies to fetch a Papaya King dog, a tiny reference that's easy to miss. 
+He had not heard of Seinfeld but seemed amused that this dated sitcom referenced his family's business. 
 </p>
 
-<p>
- <!-- It's hard to say whether New York influences Papaya King or if Papaya King shapes New York(ers), but I can see they need each other. -->
-<!-- New Yorkers came to grab one last hotdog and a juice.  -->
-<!-- Everyone came in to get one last taste, smell, and view of the famed, local staple.  -->
-</p>
 		</div>
 	</div>
 </div>
