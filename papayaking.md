@@ -12,7 +12,6 @@ layout: default
 			<a href="javascript:void(0);" name="#childhood">Papaya King</a>
 			</h2>
 			<p>
-<!-- I stopped by the Papaya King on 86th in the Upper East side today (August 27, 2022) because I read some news that they will close down soon. The new owner wants to demolish the building so I wanted to get one last hot dog.  -->
 
 Papaya King, a fast food restaurant located in the Upper East Side, sells hot dogs and juices.
 The news reported that the Papaya King would close down soon to be transformed into a highrise building. 
@@ -63,7 +62,7 @@ A man opens the door and calls to me - <br/>
 He closed the door and went back in. <br/>
 I felt I acted brash. I walked up to the window and snapped a photo and walked back to my tripod. <br/>
 He later came out to talk to me. <br/>
-I need a cold club soda because of the heat.
+I need a cold club soda.
 </p>
 <p>
 I packed up and remembered showing the young employee a Seinfeld clip: Kramer left the movies to fetch a Papaya King dog, a tiny reference that's easy to miss. 
