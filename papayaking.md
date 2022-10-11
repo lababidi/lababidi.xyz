@@ -26,6 +26,7 @@ It wasn't very busy when I arrived but over the next hour business picked up.
 During the lull, I chatted with the workers, all part of a Bangladeshi family, and they told me
 "Business has been busy since we were in the news". 
 </p>
+<img src="img/papayaking/2.jpg" alt="">
 <p>
 I ordered a sauerkraut dog and a chili and cheese dog with a papaya juice, the recommended staples. 
 I put some ketchup and mustard on my dogs and immediately recognized that the ketchup was not Heinz nor Hunts while the mustard wasn’t a cheap yellow but fancy and grainy. 
@@ -46,6 +47,7 @@ Cars are parked and double parked to order and pick up food.
 I finished my meal, went out to the August heat, set up my tripod to get a couple of photographs of the exterior. 
 To have no one in the shot I waited close to one hour with the parade of people walking by.
 </p>
+<img src="img/papayaking/3.jpg" alt="">
 <p>
 With a think New York accent, a man stopped to ask if I was photographing the shop because I heard the news about the developer.
 "That sonovabitch! I've been coming here for 50 years since I was a kid!"
@@ -64,6 +66,7 @@ I felt I acted brash. I walked up to the window and snapped a photo and walked b
 He later came out to talk to me. <br/>
 I need a cold club soda.
 </p>
+<img src="img/papayaking/5.jpg" alt="">
 <p>
 I packed up and remembered showing the young employee a Seinfeld clip: Kramer left the movies to fetch a Papaya King dog, a tiny reference that's easy to miss. 
 He had not heard of Seinfeld but seemed amused that this dated sitcom referenced his family's business. 
