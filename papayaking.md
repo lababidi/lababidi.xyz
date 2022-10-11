@@ -14,11 +14,11 @@ layout: default
 			<p>
 <!-- I stopped by the Papaya King on 86th in the Upper East side today (August 27, 2022) because I read some news that they will close down soon. The new owner wants to demolish the building so I wanted to get one last hot dog.  -->
 
-Papaya King, a fast food restaurant, sells hot dogs and juices and is located in the Upper East Side on the corner of 86th street. 
+Papaya King, a fast food restaurant located in the Upper East Side, sells hot dogs and juices.
 The news reported that the Papaya King would close down soon to be transformed into a highrise building. 
-I went to eat a hotdog and get a juice before they close and I also went to take photographs. 
-I have a vague memory of Papaya King in the mid 2000s, mostly the neon lights and yellow color popping out.
-Such a place was an afterthought with me but after all these years it stuck. 
+I went to eat a hotdog and get a juice before they close and also take photographs. 
+I have a vague memory of Papaya King in the mid 2000s, mostly the neon lights and flurry of colors popping out.
+In my mind it was an afterthought but after all these years the memory stuck. 
 
 New York is the hotdog capital of the world, but Papaya King isn't just about a hotdog, it's about New Yorkers.
 </p>
