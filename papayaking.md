@@ -49,7 +49,7 @@ To have no one in the shot I waited close to one hour with the parade of people 
 </p>
 <img src="img/papayaking/3.jpg" alt="">
 <p>
-With a think New York accent, a man stopped to ask if I was photographing the shop because I heard the news about the developer.
+Another thick New York accent, a man stopped to ask if I was photographing the shop because I heard the news about the developer.
 "That sonovabitch! I've been coming here for 50 years since I was a kid!"
 </p> 
 <p>
