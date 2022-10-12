@@ -13,7 +13,7 @@ layout: default
 			</h2>
 			<p>
 
-Papaya King, a fast food restaurant located in the Upper East Side, sells hot dogs and juices.
+Papaya King, a fast food restaurant located in the Upper East Side, sells hotdogs and juices.
 The news reported that the Papaya King would close down soon to be transformed into a highrise building. 
 I went to eat a hotdog and get a juice before they close and also take photographs. 
 I have a vague memory of Papaya King in the mid 2000s, mostly the neon lights and flurry of colors popping out.
@@ -33,7 +33,7 @@ I put some ketchup and mustard on my dogs and immediately recognized that the ke
 I like hotdogs, I keep a pack of Nathan’s or Hebrew National in my fridge depending on which one is on sale. 
 I ate at the yellow window counter with the August late-noon sun shining in. 
 The counter, a tiny glass box, hosts 2 people comfortably but 6 folks were elbow to elbow enjoying their dogs.  
-Add the sun to the hot dog terrarium and now it's a hot dog sauna. 
+Add the sun to the hotdog terrarium and now it's a hotdog sauna. 
 The whole store is a tight space, meant for on-the-go eating. 
 </p>
 <p>
@@ -68,8 +68,9 @@ I need a cold club soda.
 </p>
 <img src="img/papayaking/5.jpg" alt="">
 <p>
-I packed up and remembered showing the young employee a Seinfeld clip: Kramer left the movies to fetch a Papaya King dog, a tiny reference that's easy to miss. 
-He had not heard of Seinfeld but seemed amused that this dated sitcom referenced his family's business. 
+I packed up and remembered showing the young employee a Seinfeld clip: Kramer ditched a movie to fetch a Papaya King dog. 
+He had not heard of Seinfeld but seemed amused that this 30 year old sitcom referenced his family's business. 
+Kramer's mention is a tiny reference that's easy to miss, a subtle yet poignant reminder of New Yorkers relationship to their beloved city.
 </p>
 
 		</div>
