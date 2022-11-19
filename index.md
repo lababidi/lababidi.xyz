@@ -5,20 +5,6 @@ layout: default
 <div class="col-md-9 col-md-offset-3">
 	<div class="projects-row">
 		<div class="project-item-row">
-			<a href="cereal1.html">
-				<img src="img/objects/surreal%20childhood-small.jpg" alt="" width="100 px">
-				<br/>
-				Untitled (Cereal I)
-			</a>
-		</div>
-		<div class="project-item-row">
-			<a href="cereal2.html">
-				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px" height="100px"/>
-				<br/>
-				Untitled (Cereal II)
-			</a>
-		</div>
-		<div class="project-item-row">
 			<a href="nails1.html">
 				<img src="img/objects/nails.jpg" alt="" width="100 px">
 				<br/>
@@ -30,6 +16,20 @@ layout: default
 				<img src="img/objects/bones.jpg" alt="" width="100 px">
 				<br/>
 				Bones I
+			</a>
+		</div>
+		<div class="project-item-row">
+			<a href="cereal1.html">
+				<img src="img/objects/surreal%20childhood-small.jpg" alt="" width="100 px">
+				<br/>
+				Untitled (Cereal I)
+			</a>
+		</div>
+		<div class="project-item-row">
+			<a href="cereal2.html">
+				<img src="img/objects/cerealboxes-small.jpg" alt="" width="100 px" height="100px"/>
+				<br/>
+				Untitled (Cereal II)
 			</a>
 		</div>
 		<div class="project-item-row">
@@ -47,10 +47,24 @@ layout: default
 			</a>
 		</div>
 		<div class="project-item-row">
+			<a href="doner.html">
+				<img src="img/doner/10.jpg" alt="" width="100 px">
+				<br/>
+				Döner
+			</a>
+		</div>
+		<div class="project-item-row">
 			<a href="disneyland.html">
 				<img src="img/childhood/amsterdam004.jpg" alt="" width="100 px">
 				<br/>
 				Disneyland
+			</a>
+		</div>
+		<div class="project-item-row">
+			<a href="papayaking.html">
+				<img src="img/papayaking/1.jpg" alt="" width="100 px">
+				<br/>
+				Papaya King
 			</a>
 		</div>
 	</div>
