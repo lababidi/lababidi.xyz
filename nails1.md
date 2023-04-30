@@ -13,6 +13,7 @@ layout: default
 			</a>
 			<h2 class="title">Nails I</h2>
 			<h3>
+				
 				This is a megaphotogram of my finger nails on gelatin silver paper.
 			</h3>
 		</div>
